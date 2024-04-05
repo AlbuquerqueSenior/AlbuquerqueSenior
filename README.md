@@ -3,7 +3,7 @@
 ```javascript
 const AlbuquerqueSenior = {
     position: "Web, Mobile and game developer",
-    code: ["Java", "Javascript", "PHP", "Android", ".NET", "C#", "Visual Basic", "Basic", "GDScript"],
+    code: ["Java", "Javascript", "PHP", "Android", "Dart", ".NET", "C#", "Visual Basic", "Basic", "GDScript"],
     askMeAbout: ["web dev", "app dev", "tech", "games", "3D", "motocycles"],
     technologies: {
         backEnd: {
@@ -15,7 +15,7 @@ const AlbuquerqueSenior = {
         databases: ["MySql", "MS SQL Server"],
         misc: ["Unity3D", "Godot Engine", "Blender", "Gimp", "InkScape"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Cloud Architecture", "Progressive web applications", "Webpage applications"],
 };
 ```
 <br>
