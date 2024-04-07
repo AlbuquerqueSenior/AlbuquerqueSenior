@@ -6,12 +6,13 @@ const AlbuquerqueSenior = {
     code: ["Java", "Javascript", "PHP", "Android", "Dart", ".NET", "C#", "Visual Basic", "Basic", "GDScript"],
     askMeAbout: ["web dev", "app dev", "tech", "games", "3D", "motocycles"],
     technologies: {
+        FrontEnd: {
+            web: ["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
+        },
         backEnd: {
-            web: ["Node", "Express", "C#", "Visual Basic", "Basic"],
+            web: ["Java", "Node", "Express", "C#", "Visual Basic"],
         },
-        mobileApp: {
-            native: ["Android Development", "Flutter"],
-        },
+        mobileApp: ["Android Development", "Flutter"],
         databases: ["MySql", "MS SQL Server"],
         misc: ["Unity3D", "Godot Engine", "Blender", "Gimp", "InkScape"]
     },
