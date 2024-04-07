@@ -6,7 +6,7 @@ const AlbuquerqueSenior = {
     code: ["Java", "Javascript", "PHP", "Android", "Dart", ".NET", "C#", "Visual Basic", "Basic", "GDScript"],
     askMeAbout: ["web dev", "app dev", "tech", "games", "3D", "motocycles"],
     technologies: {
-        FrontEnd: {
+        frontEnd: {
             web: ["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
         },
         backEnd: {
