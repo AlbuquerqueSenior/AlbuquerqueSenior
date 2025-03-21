@@ -10,7 +10,7 @@ const AlbuquerqueSenior = {
             web: ["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
         },
         backEnd: {
-            web: ["Java", "Node", "Express", "C#", "Visual Basic"],
+            web: ["Java", "NodeJS", "Express", "PHP", "C#", "Visual Basic"],
         },
         mobileApp: ["Android Development", "Flutter"],
         databases: ["MySql", "MS SQL Server"],
