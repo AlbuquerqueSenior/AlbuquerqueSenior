@@ -24,7 +24,7 @@ const AlbuquerqueSenior = {
 📊 **Average time spent** 
 
 ```text
-🕑︎ Time Zone: Brazil/Rio de Janeiro-RJ
+🕑︎ Time Zone: Brazil/São Paulo-SP
 
 💻 Operating System: 
 LINUX                      9 hrs 43 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.0 %
