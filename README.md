@@ -14,7 +14,7 @@ const AlbuquerqueSenior = {
         },
         mobileApp: ["Android Development", "Flutter"],
         databases: ["MySql", "MS SQL Server"],
-        misc: ["Unity3D", "Godot Engine", "Blender", "Gimp", "InkScape"]
+        misc: ["Unity3D", "Godot Engine", "Blender", "Gimp", "InkScape", "Blender"]
     },
     architecture: ["Cloud Architecture", "Progressive web applications", "Webpage applications"],
 };
